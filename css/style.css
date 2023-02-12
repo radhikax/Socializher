@@ -7,12 +7,12 @@ body {
 }
 
 a {
-  color: #fdc134;
+  color: #FFB9B9;
   text-decoration: none;
 }
 
 a:hover {
-  color: #fdd067;
+  color: #FF5F9E;
   text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ h6 {
 
 #header .logo h1 a span,
 #header .logo h1 a:hover span {
-  color: #fdc134;
+  color: #FFB9B9;
 }
 
 #header .logo img {
@@ -204,7 +204,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #fdc134;
+  color: #FFB9B9;
 }
 
 .navbar .dropdown:hover>ul {
@@ -240,7 +240,7 @@ h6 {
 * Mobile Navigation
 */
 .mobile-nav-toggle {
-  color: #fdc134;
+  color: #FFB9B9;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -305,7 +305,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #fdc134;
+  color: #FFDDD2;
 }
 
 .navbar-mobile .getstarted,
@@ -342,7 +342,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #fdc134;
+  color: #FFDDD2;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -374,18 +374,18 @@ h6 {
 }
 
 #hero .btn-get-started {
-  color: #213b52;
+  color: #fff;
   border-radius: 50px;
   padding: 8px 35px 10px 35px;
-  border: 2px solid #fdc134;
+  border: 2px solid #694E4E;
   transition: all ease-in-out 0.3s;
   display: inline-block;
-  background: #fdc134;
+  background: #694E4E;
 }
 
 #hero .btn-get-started:hover {
   background: transparent;
-  color: #fff;
+  color:#213b52;
 }
 
 @media (max-width: 991px) {
@@ -451,7 +451,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   font-family: "Poppins", sans-serif;
-  color: #FFB9B9;
+  color: #B3005E;
 }
 
 .section-title h2::before {
@@ -471,7 +471,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #fdc134;
+  background: #FFB9B9;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -581,13 +581,13 @@ section {
 }
 
 .about .content .icon-box h4 a:hover {
-  color: #fdc134;
+  color: #FFB9B9;
 }
 
 .about .content .icon-box i {
   font-size: 48px;
   float: left;
-  color: #fdc134;
+  color: #FFB9B9;
 }
 
 .about .content .icon-box p {
@@ -628,7 +628,7 @@ a:hover{
     background-repeat: no-repeat;
     position: absolute;
 
-    transform: translate(10%, 0);
+    transform: translate(10%, -5%);
 }
 .form:before{
     content: "";
@@ -875,7 +875,7 @@ hr{
 }
 
 .services .read-more a:hover {
-  color: #fdc134;
+  color: #FF5F9E;
 }
 
 .services .card:hover img {
@@ -883,11 +883,11 @@ hr{
 }
 
 .services .card:hover .card-body {
-  border-color: #fdc134;
+  border-color: #FF5F9E;
 }
 
 .services .card:hover .card-body .card-title a {
-  color: #fdc134;
+  color: #FF5F9E;
 }
 
 /*--------------------------------------------------------------
@@ -915,7 +915,7 @@ hr{
 .features .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #fdc134;
+  color: #B3005E;
 }
 
 .features .content p:last-child {
@@ -951,7 +951,7 @@ hr{
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #fdc134;
+  color: #FF5F9E;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -994,7 +994,7 @@ hr{
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fdc134;
+  color: #FF5F9E;
   line-height: 0;
   text-align: center;
   width: 36px;
@@ -1155,7 +1155,7 @@ hr{
 }
 
 .team .member .social a:hover {
-  color: #fdc134;
+  color: #FF5F9E;
 }
 
 .team .member .social i {
@@ -1184,7 +1184,7 @@ hr{
   position: absolute;
   top: -11px;
   left: calc(50% - 49px);
-  background: #fdc134;
+  background: #FF5F9E;
   color: #fff;
   text-align: center;
   line-height: 1;
@@ -1202,7 +1202,7 @@ hr{
 
 .pricing h4 {
   font-size: 46px;
-  color: #fdc134;
+  color: #B3005E;
   font-weight: 400;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 25px;
@@ -1227,7 +1227,7 @@ hr{
 }
 
 .pricing ul i {
-  color: #fdc134;
+  color: #B3005E;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1258,17 +1258,17 @@ hr{
 }
 
 .pricing .get-started-btn:hover {
-  background: #fdc134;
+  background: #B3005E;
 }
 
 .pricing .featured {
   z-index: 10;
   margin: -30px -5px 0 -5px;
-  border: 1px solid #fdc134;
+  border: 1px solid #B3005E;
 }
 
 .pricing .featured .get-started-btn {
-  background: #fdc134;
+  background: #B3005E;
 }
 
 .pricing .featured .get-started-btn:hover {
