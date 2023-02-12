@@ -102,7 +102,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  height: 70px;
 }
 
 /*--------------------------------------------------------------
@@ -1339,7 +1339,7 @@ hr{
 
 .contact .info-box i {
   font-size: 32px;
-  color: #fdc134;
+  color: #694E4E;
   border-radius: 50%;
   padding: 8px;
   border: 2px dotted #fff7e5;
@@ -1416,7 +1416,7 @@ hr{
 
 .contact .php-email-form input::focus,
 .contact .php-email-form textarea::focus {
-  background-color: #fdc134;
+  background-color: #694E4E;
 }
 
 .contact .php-email-form input {
@@ -1428,7 +1428,7 @@ hr{
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #fdc134;
+  background: #694E4E;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1436,7 +1436,7 @@ hr{
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #fdd067;
+  background: #FFB9B9;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1476,7 +1476,7 @@ hr{
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(26, 46, 64, 0.85);
+  background: rgba(101, 67, 33, 0.85);
   z-index: 1;
 }
 
@@ -1534,7 +1534,7 @@ hr{
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #fdc134;
+  background: #FFB9B9;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1542,7 +1542,7 @@ hr{
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #fcb102;
+  background: #B3005E;
 }
 
 #footer .footer-top .social-links {
@@ -1565,7 +1565,7 @@ hr{
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #fcb102;
+  background: #FFB9B9;
   color: #fff;
   text-decoration: none;
 }
